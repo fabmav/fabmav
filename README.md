@@ -5,7 +5,7 @@ I then realized that my job would dramatically change and that I needed to adapt
 - 🌱 Thanks to my Data Analytics degree I have a good knowledge of Pandas, Matplotlib, Scikit Learn and programming fundamentals with Python. But I know there's still a lot to learn.
 I think that learning by doing is the best so I'll share some repo showing what I can do. Hopefully it will be entertaining and I'll get some feedback in the process so that I can further improve.
 
-- ⚡ Fun fact: I'm fond of indie music, I'm a guitar geek and an amateur photgrapher 📸. I'm also interested in Science and Economics. So I guess my projects will gravitate around these topics
+- ⚡ I'm fond of indie music. I'm a guitar geek and an amateur photgrapher 📸. I'm also interested in Science, Environmental issues, Arts and Economics. So I guess my projects will gravitate around these topics
 
 <!---
 fabmav/fabmav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
